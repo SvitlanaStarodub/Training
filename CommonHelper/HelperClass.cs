@@ -8,5 +8,9 @@ namespace CommonHelper
 {
     class HelperClass
     {
+        public void GetHelp()
+        {
+            
+        }
     }
 }
